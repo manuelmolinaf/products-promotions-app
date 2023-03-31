@@ -26,7 +26,7 @@ const ProductCard = ({ product, originalPrice }: ProductCardProps) => {
       </ProductCardImageContainer>
 
       <ProductCardBody> 
-        <ProductCardTitle>
+        <ProductCardTitle >
           {product.title}
         </ProductCardTitle>
 

@@ -1,3 +1,4 @@
+import { Typography } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
 
@@ -6,10 +7,12 @@ export const ProductsHeader = styled('div')({
   flexDirection: 'row', 
   alignItems:'center', 
   flexWrap:'wrap',
-  marginTop:'40px',
+  marginTop:'10px',
   marginBottom:'20px'
 })
 
-export const ProductsTitle = styled('h1')({ 
-  margin:0
+export const ProductsTitle = styled(Typography)({ 
+  margin:0,
+  fontWeight:'bold',
+  fontSize:'35px'
 })

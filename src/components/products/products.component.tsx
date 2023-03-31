@@ -77,7 +77,7 @@ const Products = ({ productsData, promotions }: ProductsProps) => {
 
       {/* Header with title and apply promotions button */}
       <ProductsHeader>
-        <ProductsTitle style={{ marginRight: 'auto' }}>Products</ProductsTitle>
+        <ProductsTitle variant="h5" style={{ marginRight: 'auto' }}>Products</ProductsTitle>
         <div>
           <Button
             onClick={applyPromotions}

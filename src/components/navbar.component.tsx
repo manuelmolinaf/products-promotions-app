@@ -39,7 +39,6 @@ function NavBar() {
             >
               Products & Promotions
             </Typography>
-            
           </Toolbar>
         </AppBar>
     </ThemeProvider>

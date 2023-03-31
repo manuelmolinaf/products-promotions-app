@@ -3,6 +3,7 @@ import NavBar from '../../components/navbar.component';
 import { Outlet } from 'react-router-dom'
 import Box from '@mui/material/Box';
 import { Fragment } from 'react';
+import { OutletContainter } from './navigation.styles';
 
 
 const Navigation = () => {
@@ -12,7 +13,9 @@ const Navigation = () => {
     <Fragment>
       <NavBar />
 
-      <Outlet />
+      <OutletContainter>
+        <Outlet />
+      </OutletContainter>
 
     </Fragment>
   )

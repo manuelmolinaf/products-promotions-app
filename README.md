@@ -7,6 +7,8 @@ npm install
 npm run dev
 ```
 
+The app is also deployed on Netlify and can be viewed at https://products-and-promotions.netlify.app.
+
 ## Application Description
 
 The app is designed to display a horizontal list of products in a card-like design. Each product card displays the product's image, title, and price attributes. In addition, there is a button

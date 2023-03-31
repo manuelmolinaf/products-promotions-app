@@ -1,4 +1,4 @@
-# React App Deployed on Netlify
+# Products & promotions App
 
 This is a simple React application that displays a list of products and allows you to apply a set of promotions on them. The app is deployed on Netlify and can be viewed at [https://products-and-promotions.netlify.app](https://products-and-promotions.netlify.app).
 

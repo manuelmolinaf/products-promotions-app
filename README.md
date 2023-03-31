@@ -7,6 +7,12 @@ npm install
 npm run dev
 ```
 
+To locally preview production build:
+```bash
+npm install
+npm run preview
+```
+
 The app is also deployed on Netlify and can be viewed at https://products-and-promotions.netlify.app.
 
 ## Application Description

@@ -11,4 +11,4 @@ The app is also deployed on Netlify and can be viewed at https://products-and-pr
 
 ## Application Description
 
-The app is designed to display a horizontal list of products in a card-like design. Each product card displays the product's image, title, and price attributes. In addition, there is a button
+The app is designed to display a horizontal list of products in a card-like design. Each product card displays the product's image, title, and price attributes. In addition, there is a button to apply promotions to the products if it applies.

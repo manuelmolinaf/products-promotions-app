@@ -4,11 +4,12 @@ import { styled } from '@mui/material/styles';
 
 export const ProductsHeader = styled('div')({ 
   display: 'flex', 
-  flexDirection: 'row', 
+  flexDirection:'row', 
   alignItems:'center', 
   flexWrap:'wrap',
   marginTop:'10px',
-  marginBottom:'20px'
+  marginBottom:'20px',
+  gap:10
 })
 
 export const ProductsTitle = styled(Typography)({ 

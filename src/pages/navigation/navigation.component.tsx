@@ -1,5 +1,5 @@
 
-import NavBar from '../../components/navbar.component';
+import NavBar from '../../components/navbar/navbar.component';
 import { Outlet } from 'react-router-dom'
 import Box from '@mui/material/Box';
 import { Fragment } from 'react';

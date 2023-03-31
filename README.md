@@ -1,6 +1,11 @@
 # Products & Promotions App
 
-This is a simple React application that displays a list of products and allows you to apply a set of promotions on them. The app is deployed on Netlify and can be viewed at [https://products-and-promotions.netlify.app](https://products-and-promotions.netlify.app).
+This is a simple React application created with Vite that displays a list of products and allows you to apply a set of promotions on them. To run the app, you can use the following commands:
+
+```bash
+npm install
+npm run dev
+```
 
 ## Application Description
 

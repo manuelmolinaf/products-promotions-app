@@ -38,7 +38,7 @@ export const ProductCardFooter = styled('div')({
   flexDirection:'row',
   gap:'10px',
   alignItems:'center',
-  justifyContent:'flex-end'
+  justifyContent:'center'
 });
 
 export const ProductCardPrice = styled(Typography)({ 
